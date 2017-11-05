@@ -1,0 +1,100 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala, /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala, /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala, /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala, /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala, /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala, /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala, /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala, /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala, /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala, /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala, /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala, /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala, /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala, /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala, /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala, /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala, /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala, /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala, /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala, /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 6 sources: invalidated sources (6) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 6 Scala sources to /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.10.6[0m
+[0m[[0minfo[0m] [0m'compiler-interface' not yet compiled for Scala 2.10.6. Compiling...[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.10.6  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_2de2148d[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-openjdk-i386/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/classes:/home/tomasz/.sbt/boot/scala-2.10.6/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/tomasz/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/xsbti/interface-0.13.13.jar:/tmp/sbt_e0ed7e3/srcs/org.scala-sbt/compiler-interface/compiler-interface-0.13.13-sources.jar:/home/tomasz/.sbt/boot/scala-2.10.6/lib/scala-compiler.jar:/home/tomasz/.sbt/boot/scala-2.10.6/lib/scala-reflect.jar:/home/tomasz/.sbt/boot/scala-2.10.6/lib/jansi.jar:/home/tomasz/.sbt/boot/scala-2.10.6/lib/jline.jar[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f0aa6e47/xsbt/API.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f0aa6e47/xsbt/Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f0aa6e47/xsbt/Command.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f0aa6e47/xsbt/Compat.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f0aa6e47/xsbt/CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f0aa6e47/xsbt/ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f0aa6e47/xsbt/DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f0aa6e47/xsbt/Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f0aa6e47/xsbt/ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f0aa6e47/xsbt/ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f0aa6e47/xsbt/GlobalHelpers.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f0aa6e47/xsbt/LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f0aa6e47/xsbt/Log.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f0aa6e47/xsbt/Message.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f0aa6e47/xsbt/ScaladocInterface.scala[0m
+[0m[[0minfo[0m] [0m  Compilation completed in 12.303 s[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.10.6[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 13e1a73, interfacing (CompilerInterface) with Scala compiler version 2.10.6[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-openjdk-i386/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/classes:/home/tomasz/.sbt/boot/scala-2.10.6/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0mScala compilation took 20.686859298 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, factorial, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, ==, clone, toString, !=, getClass, ne, fibonacci1, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, fib, wait, $asInstanceOf, equals, asInstanceOf, executionStart, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, formatResult, ==, clone, $init$, toString, args, !=, getClass, ne, fibonacci, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, partial, equals, asInstanceOf, executionStart, synchronized, $isInstanceOf, main, notifyAll, partial1, isInstanceOf, ==, clone, $init$, toString, args, !=, getClass, ne, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, compose, equals, asInstanceOf, executionStart, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, $init$, toString, args, !=, getClass, ne, composition, eq, delayedInit, ##, finalize, hashCode, compose1.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, uncurry, asInstanceOf, executionStart, curry, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, $init$, toString, args, !=, getClass, ne, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, isSorted, equals, asInstanceOf, executionStart, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, sorted, clone, $init$, toString, args, !=, getClass, ne, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

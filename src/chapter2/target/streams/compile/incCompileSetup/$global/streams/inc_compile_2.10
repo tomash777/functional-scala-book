@@ -1,0 +1,326 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+26 items
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/composition$$anonfun$compose$1.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/composition$$anonfun$compose1$1.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/composition$.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/composition.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/curry$$anonfun$curry$1$$anonfun$apply$1.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/curry$$anonfun$curry$1.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/curry$$anonfun$uncurry$1.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/curry$.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/curry.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/fibonacci$$anonfun$1.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/fibonacci$.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/fibonacci$delayedInit$body.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/fibonacci.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/fibonacci1$.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/fibonacci1.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/partial$$anonfun$1.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/partial$$anonfun$partial1$1.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/partial$.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/partial$delayedInit$body.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/partial.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/sorted$$anonfun$1.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/sorted$$anonfun$2.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/sorted$$anonfun$3.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/sorted$.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/sorted$delayedInit$body.class
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> /home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/sorted.class
+binary dependencies:
+12 items
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> /home/tomasz/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> /usr/lib/jvm/java-8-openjdk-i386/jre/lib/rt.jar
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> /home/tomasz/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> /usr/lib/jvm/java-8-openjdk-i386/jre/lib/rt.jar
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> /home/tomasz/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> /usr/lib/jvm/java-8-openjdk-i386/jre/lib/rt.jar
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> /home/tomasz/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> /usr/lib/jvm/java-8-openjdk-i386/jre/lib/rt.jar
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> /home/tomasz/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> /usr/lib/jvm/java-8-openjdk-i386/jre/lib/rt.jar
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> /home/tomasz/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> /usr/lib/jvm/java-8-openjdk-i386/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+26 items
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> chapter2.composition
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> chapter2.composition$
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> chapter2.composition$$anonfun$compose$1
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> chapter2.composition$$anonfun$compose1$1
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> chapter2.curry
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> chapter2.curry$
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> chapter2.curry$$anonfun$curry$1
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> chapter2.curry$$anonfun$curry$1$$anonfun$apply$1
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> chapter2.curry$$anonfun$uncurry$1
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> chapter2.fibonacci
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> chapter2.fibonacci$
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> chapter2.fibonacci$$anonfun$1
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> chapter2.fibonacci$delayedInit$body
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> chapter2.fibonacci1
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> chapter2.fibonacci1$
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> chapter2.partial
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> chapter2.partial$
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> chapter2.partial$$anonfun$1
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> chapter2.partial$$anonfun$partial1$1
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> chapter2.partial$delayedInit$body
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> chapter2.sorted
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> chapter2.sorted$
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> chapter2.sorted$$anonfun$1
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> chapter2.sorted$$anonfun$2
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> chapter2.sorted$$anonfun$3
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> chapter2.sorted$delayedInit$body
+used names:
+141 items
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> <init>
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> A
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> Any
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> App
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> B
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> C
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> Function1
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> Nothing
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> Object
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> _root_
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> andThen
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> apply
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> chapter2
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> composition
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> f
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> g
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> scala
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> x
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> <init>
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> A
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> Any
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> App
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> B
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> C
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> Function1
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> Function2
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> Nothing
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> Object
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> _root_
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> apply
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> chapter2
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> curry
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> f
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> scala
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> x
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> y
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> +
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> <init>
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> <repeated>
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> ==
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> Any
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> App
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> Boolean
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> Function1
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> Int
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> Object
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> Predef
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> String
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> StringContext
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> Unit
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> _root_
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> acc1
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> acc2
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> apply
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> chapter2
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> f
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> fib
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> fibAcc
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> fibonacci
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> formatResult
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> m
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> n
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> name
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> println
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> s
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> scala
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> *
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> -
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> <init>
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> ==
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> AnyRef
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> Boolean
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> Int
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> Object
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> acc
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> chapter2
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> factAcc
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> fibonacci1
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> m
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> n
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> scala
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> +
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> <init>
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> <repeated>
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> A
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> Any
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> App
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> B
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> C
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> Function1
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> Function2
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> Int
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> Nothing
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> Object
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> Predef
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> String
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> Unit
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> _root_
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> a
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> apply
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> chapter2
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> f
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> partial
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> partial1
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> printf
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> scala
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> toString
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> x
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> y
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> +
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> -
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> <
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> <init>
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> <repeated>
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> ==
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> A
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> Any
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> App
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> Array
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> Boolean
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> Function2
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> Int
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> Nothing
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> Object
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> Predef
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> Unit
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> _root_
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> apply
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> as
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> chapter2
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> gt
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> isSorted
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> length
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> n
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> println
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> scala
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> sorted
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> step
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> unary_!
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> x
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> y
+product stamps:
+26 items
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/composition$$anonfun$compose$1.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/composition$$anonfun$compose1$1.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/composition$.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/composition.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/curry$$anonfun$curry$1$$anonfun$apply$1.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/curry$$anonfun$curry$1.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/curry$$anonfun$uncurry$1.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/curry$.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/curry.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/fibonacci$$anonfun$1.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/fibonacci$.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/fibonacci$delayedInit$body.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/fibonacci.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/fibonacci1$.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/fibonacci1.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/partial$$anonfun$1.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/partial$$anonfun$partial1$1.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/partial$.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/partial$delayedInit$body.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/partial.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/sorted$$anonfun$1.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/sorted$$anonfun$2.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/sorted$$anonfun$3.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/sorted$.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/sorted$delayedInit$body.class -> lastModified(1488449943000)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/target/scala-2.10/classes/chapter2/sorted.class -> lastModified(1488449943000)
+source stamps:
+6 items
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> hash(62db9599a2b1a7cc674c103165cb2df077f9b7b0)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> hash(f9f0a023cca32180980454e9d09fdd34f0ec619c)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> hash(4c7f821b4dc9758dcb614639919c8614c2bb0884)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> hash(d645d7103cd5b6c6c38d980639f67d3f2f0ed44c)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> hash(d2a76413430f0eeed53973358fe85369558c205f)
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> hash(8f9d98db44ab9d201d9d6b470eaff557cd0bd576)
+binary stamps:
+2 items
+/home/tomasz/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1442568926000)
+/usr/lib/jvm/java-8-openjdk-i386/jre/lib/rt.jar -> lastModified(1485188727000)
+class names:
+2 items
+/home/tomasz/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.App
+/usr/lib/jvm/java-8-openjdk-i386/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+6 items
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwXe3VhwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwF9hb33QABm5vdGlmeXNxAH4ADOYr4JN0AAR3YWl0c3EAfgAMcciLU3QADSRhc0luc3RhbmNlT2ZzcQB+AAxYZLXRdAAHY29tcG9zZXNxAH4ADJo2hah0AAZlcXVhbHNzcQB+AAw/SBe1dAAMYXNJbnN0YW5jZU9mc3EAfgAM9sa4p3QADmV4ZWN1dGlvblN0YXJ0c3EAfgAMd9nPSXQADHN5bmNocm9uaXplZHNxAH4ADIs42nl0AA0kaXNJbnN0YW5jZU9mc3EAfgAMwaGsInQABG1haW5zcQB+AAzi5wSpdAAJbm90aWZ5QWxsc3EAfgAMLASA53QADGlzSW5zdGFuY2VPZnNxAH4ADOtwzGN0AAI9PXNxAH4ADDnrw4R0AAVjbG9uZXNxAH4ADPa8ToJ0AAYkaW5pdCRzcQB+AAxtnFTJdAAIdG9TdHJpbmdzcQB+AAzNEFgbdAAEYXJnc3NxAH4ADHhPU6d0AAIhPXNxAH4ADKIWDOJ0AAhnZXRDbGFzc3NxAH4ADPi6+7d0AAJuZXNxAH4ADK5FEJd0AAtjb21wb3NpdGlvbnNxAH4ADFMyvxp0AAJlcXNxAH4ADMsMpet0AAtkZWxheWVkSW5pdHNxAH4ADHyNmcN0AAIjI3NxAH4ADAoVfcN0AAhmaW5hbGl6ZXNxAH4ADOyl1mJ0AAhoYXNoQ29kZXNxAH4ADJ7shsJ0AAhjb21wb3NlMXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABRjaGFwdGVyMi5jb21wb3NpdGlvbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBNTAAJaW5oZXJpdGVkcQB+AE1MAAdwYXJlbnRzcQB+AE14cQB+AGpzcQB+AGV1cQB+AEgAAAAAc3EAfgBldXEAfgBIAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBOcQB+AFd1cQB+AFgAAAAAc3EAfgBaAHEAfgAhdXEAfgBdAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGl0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCHdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AdHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AYHQABVBsYWlucQB+AC9zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHtbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGlzcQB+AHp0AAVBcnJheXEAfgCAdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHp0AAZTdHJpbmdzcQB+AH5zcQB+AIF1cQB+AIQAAAADc3EAfgCGdAAEamF2YXNxAH4AhnQABGxhbmdxAH4Ai3NxAH4AZXVxAH4AngAAAARzcQB+AHp0AANBcHBxAH4AgHNxAH4AenQAC0RlbGF5ZWRJbml0cQB+AIBzcQB+AHp0AAZPYmplY3RxAH4AonNxAH4AenQAA0FueXEAfgCAdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAIY2hhcHRlcjJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVqOh2hLdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAYy9ob21lL3RvbWFzei9Qcm9nZnVuL3Byb2dmdW4vcHJvZ2Z1bi13b3Jrc3BhY2UxL3Byb2dmdW4tYm9vay9zcmMvY2hhcHRlcjIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGLblZmisafMZ0wQMWXLLfB3+bew
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwmjBPrQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwcw7mOXQABm5vdGlmeXNxAH4ADKGW4qN0AAR3YWl0c3EAfgAMudvFqXQADSRhc0luc3RhbmNlT2ZzcQB+AAy+7CF2dAAGZXF1YWxzc3EAfgAMJgBsKHQAB3VuY3VycnlzcQB+AAz8PTeLdAAMYXNJbnN0YW5jZU9mc3EAfgAMpSISbXQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMedudh3QABWN1cnJ5c3EAfgAMO/cv4XQADHN5bmNocm9uaXplZHNxAH4ADJbr/d90AA0kaXNJbnN0YW5jZU9mc3EAfgAMSsX2CnQABG1haW5zcQB+AAweg+74dAAJbm90aWZ5QWxsc3EAfgAMB3JG7XQADGlzSW5zdGFuY2VPZnNxAH4ADFhwk6F0AAI9PXNxAH4ADAG3o950AAVjbG9uZXNxAH4ADCZTafB0AAYkaW5pdCRzcQB+AAy+lDGDdAAIdG9TdHJpbmdzcQB+AAxEWZJ6dAAEYXJnc3NxAH4ADNRx+9Z0AAIhPXNxAH4ADIIvVUB0AAhnZXRDbGFzc3NxAH4ADBHANR90AAJuZXNxAH4ADBTee7h0AAJlcXNxAH4ADDauo4l0AAtkZWxheWVkSW5pdHNxAH4ADMbtVm10AAIjI3NxAH4ADHovQVd0AAhmaW5hbGl6ZXNxAH4ADD8LBtF0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AA5jaGFwdGVyMi5jdXJyeXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AY3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBLTAAJaW5oZXJpdGVkcQB+AEtMAAdwYXJlbnRzcQB+AEt4cQB+AGhzcQB+AGN1cQB+AEYAAAAAc3EAfgBjdXEAfgBGAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBMcQB+AFV1cQB+AFYAAAAAc3EAfgBYAHEAfgAjdXEAfgBbAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBnc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCFdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AcnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AXnQABVBsYWlucQB+ADFzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHlbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGdzcQB+AHh0AAVBcnJheXEAfgB+dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHh0AAZTdHJpbmdzcQB+AHxzcQB+AH91cQB+AIIAAAADc3EAfgCEdAAEamF2YXNxAH4AhHQABGxhbmdxAH4AiXNxAH4AY3VxAH4AnAAAAARzcQB+AHh0AANBcHBxAH4AfnNxAH4AeHQAC0RlbGF5ZWRJbml0cQB+AH5zcQB+AHh0AAZPYmplY3RxAH4AoHNxAH4AeHQAA0FueXEAfgB+dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAIY2hhcHRlcjJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVqOh2hLdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAYy9ob21lL3RvbWFzei9Qcm9nZnVuL3Byb2dmdW4vcHJvZ2Z1bi13b3Jrc3BhY2UxL3Byb2dmdW4tYm9vay9zcmMvY2hhcHRlcjIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPnwoCPMoyGAmARU6dCf3TTw7GGc
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwsS6dGAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwGpTet3QABm5vdGlmeXNxAH4ADB845hp0AANmaWJzcQB+AAwHh1NxdAAEd2FpdHNxAH4ADHFooRp0AA0kYXNJbnN0YW5jZU9mc3EAfgAMdGQAH3QABmVxdWFsc3NxAH4ADFU8i/h0AAxhc0luc3RhbmNlT2ZzcQB+AAxmQqOidAAOZXhlY3V0aW9uU3RhcnRzcQB+AAzSIxa9dAAMc3luY2hyb25pemVkc3EAfgAM37kZBnQADSRpc0luc3RhbmNlT2ZzcQB+AAxPCAYAdAAEbWFpbnNxAH4ADGcHONF0AAlub3RpZnlBbGxzcQB+AAwzFWeHdAAMaXNJbnN0YW5jZU9mc3EAfgAMvNhY8nQADGZvcm1hdFJlc3VsdHNxAH4ADJr3xjd0AAI9PXNxAH4ADPo9Hj90AAVjbG9uZXNxAH4ADLHECLh0AAYkaW5pdCRzcQB+AAw82jtidAAIdG9TdHJpbmdzcQB+AAwpk6rHdAAEYXJnc3NxAH4ADIiruWd0AAIhPXNxAH4ADLFNPmR0AAhnZXRDbGFzc3NxAH4ADKlcggl0AAJuZXNxAH4ADOdFWL90AAlmaWJvbmFjY2lzcQB+AAz3ioVhdAACZXFzcQB+AAyAQvFxdAALZGVsYXllZEluaXRzcQB+AAx8r4AWdAACIyNzcQB+AAykJMVodAAIZmluYWxpemVzcQB+AAwxhM+/dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBNeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAASY2hhcHRlcjIuZmlib25hY2NpdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBlc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE1MAAlpbmhlcml0ZWRxAH4ATUwAB3BhcmVudHNxAH4ATXhxAH4AanNxAH4AZXVxAH4ASAAAAABzcQB+AGV1cQB+AEgAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AE5xAH4AV3VxAH4AWAAAAABzcQB+AFoAcQB+ACF1cQB+AF0AAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AaXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AId1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB0eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBgdAAFUGxhaW5xAH4AMXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ae1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AaXNxAH4AenQABUFycmF5cQB+AIB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AenQABlN0cmluZ3NxAH4AfnNxAH4AgXVxAH4AhAAAAANzcQB+AIZ0AARqYXZhc3EAfgCGdAAEbGFuZ3EAfgCLc3EAfgBldXEAfgCeAAAABHNxAH4AenQAA0FwcHEAfgCAc3EAfgB6dAALRGVsYXllZEluaXRxAH4AgHNxAH4AenQABk9iamVjdHEAfgCic3EAfgB6dAADQW55cQB+AIB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAhjaGFwdGVyMnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo6HaEt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABjL2hvbWUvdG9tYXN6L1Byb2dmdW4vcHJvZ2Z1bi9wcm9nZnVuLXdvcmtzcGFjZTEvcHJvZ2Z1bi1ib29rL3NyYy9jaGFwdGVyMi90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUTH+CG03JdY3LYUY5kZyGFMK7CIQ=
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw6M7RgQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwklaxhXQABm5vdGlmeXNxAH4ADNK4TbF0AAlmYWN0b3JpYWxzcQB+AAysqCCqdAAEd2FpdHNxAH4ADFMF9Ap0AA0kYXNJbnN0YW5jZU9mc3EAfgAM5npIGXQABmVxdWFsc3NxAH4ADN6GHqp0AAxhc0luc3RhbmNlT2ZzcQB+AAyKQDBHdAAMc3luY2hyb25pemVkc3EAfgAMX1WYJHQADSRpc0luc3RhbmNlT2ZzcQB+AAyr5JAtdAAJbm90aWZ5QWxsc3EAfgAMVBL7gXQADGlzSW5zdGFuY2VPZnNxAH4ADIMJYSN0AAI9PXNxAH4ADMPVbZB0AAVjbG9uZXNxAH4ADDaaTKd0AAh0b1N0cmluZ3NxAH4ADJvIL5Z0AAIhPXNxAH4ADEqjRXx0AAhnZXRDbGFzc3NxAH4ADOdFJkN0AAJuZXNxAH4ADPUGd9F0AApmaWJvbmFjY2kxc3EAfgAMxlAnsXQAAmVxc3EAfgAMrHgZcnQAAiMjc3EAfgAMbb3XcXQACGZpbmFsaXplc3EAfgAMScxlUnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAE2NoYXB0ZXIyLmZpYm9uYWNjaTF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBec3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVxAH4APAAAAABzcQB+AFl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF10AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHZ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHdzcQB+AGp0AANBbnlzcQB+AG5zcQB+AHF1cQB+AHQAAAACc3EAfgB2dAAFc2NhbGFxAH4AfXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACGNoYXB0ZXIyc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFajodoS3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGMvaG9tZS90b21hc3ovUHJvZ2Z1bi9wcm9nZnVuL3Byb2dmdW4td29ya3NwYWNlMS9wcm9nZnVuLWJvb2svc3JjL2NoYXB0ZXIyL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTWRdcQPNW2xsONmAY59n0/Lw7UTA==
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwc757UwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwNpoG5nQABm5vdGlmeXNxAH4ADDYrdgN0AAR3YWl0c3EAfgAME/OMiXQADSRhc0luc3RhbmNlT2ZzcQB+AAwaHVZsdAAHcGFydGlhbHNxAH4ADOJmr7B0AAZlcXVhbHNzcQB+AAyCtszxdAAMYXNJbnN0YW5jZU9mc3EAfgAMQxO2/XQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMzFzwW3QADHN5bmNocm9uaXplZHNxAH4ADGrAvDJ0AA0kaXNJbnN0YW5jZU9mc3EAfgAMdLOlg3QABG1haW5zcQB+AAxIoSr0dAAJbm90aWZ5QWxsc3EAfgAMfY6EKnQACHBhcnRpYWwxc3EAfgAMU86I03QADGlzSW5zdGFuY2VPZnNxAH4ADHQ5vr10AAI9PXNxAH4ADDmxAA90AAVjbG9uZXNxAH4ADCEbMgV0AAYkaW5pdCRzcQB+AAznmsg9dAAIdG9TdHJpbmdzcQB+AAxvqvO8dAAEYXJnc3NxAH4ADKwsrCd0AAIhPXNxAH4ADApY6O10AAhnZXRDbGFzc3NxAH4ADNKLjB10AAJuZXNxAH4ADB1ZP6J0AAJlcXNxAH4ADEhkyAZ0AAtkZWxheWVkSW5pdHNxAH4ADBfmRLV0AAIjI3NxAH4ADGoDa7N0AAhmaW5hbGl6ZXNxAH4ADOazkLl0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABBjaGFwdGVyMi5wYXJ0aWFsdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBjc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AaHNxAH4AY3VxAH4ARgAAAABzcQB+AGN1cQB+AEYAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AExxAH4AVXVxAH4AVgAAAABzcQB+AFgAcQB+ACF1cQB+AFsAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZ3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIV1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgByeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBedAAFUGxhaW5xAH4AMXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AeVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AZ3NxAH4AeHQABUFycmF5cQB+AH51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AeHQABlN0cmluZ3NxAH4AfHNxAH4Af3VxAH4AggAAAANzcQB+AIR0AARqYXZhc3EAfgCEdAAEbGFuZ3EAfgCJc3EAfgBjdXEAfgCcAAAABHNxAH4AeHQAA0FwcHEAfgB+c3EAfgB4dAALRGVsYXllZEluaXRxAH4AfnNxAH4AeHQABk9iamVjdHEAfgCgc3EAfgB4dAADQW55cQB+AH51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAhjaGFwdGVyMnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo6HaEt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABjL2hvbWUvdG9tYXN6L1Byb2dmdW4vcHJvZ2Z1bi9wcm9nZnVuLXdvcmtzcGFjZTEvcHJvZ2Z1bi1ib29rL3NyYy9jaGFwdGVyMi90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU0qdkE0MPDu7VOXM1j+hTaVWMIF8=
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw4oWG1AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hweW5CDHQABm5vdGlmeXNxAH4ADMAITw50AAR3YWl0c3EAfgAMDJXLxXQADSRhc0luc3RhbmNlT2ZzcQB+AAx7TM41dAAIaXNTb3J0ZWRzcQB+AAzxthtFdAAGZXF1YWxzc3EAfgAMb2jC23QADGFzSW5zdGFuY2VPZnNxAH4ADCWtY1J0AA5leGVjdXRpb25TdGFydHNxAH4ADBCA40x0AAxzeW5jaHJvbml6ZWRzcQB+AAwkUzhZdAANJGlzSW5zdGFuY2VPZnNxAH4ADATkPZp0AARtYWluc3EAfgAMBP5iwHQACW5vdGlmeUFsbHNxAH4ADOQRxiF0AAxpc0luc3RhbmNlT2ZzcQB+AAxENSsndAACPT1zcQB+AAwDGaqOdAAGc29ydGVkc3EAfgAMOw1go3QABWNsb25lc3EAfgAM6JcOw3QABiRpbml0JHNxAH4ADN70cEp0AAh0b1N0cmluZ3NxAH4ADCWDjFt0AARhcmdzc3EAfgAMc4RbEHQAAiE9c3EAfgAMIbF1B3QACGdldENsYXNzc3EAfgAM+w3S+HQAAm5lc3EAfgAMj96prHQAAmVxc3EAfgAM7h3H8nQAC2RlbGF5ZWRJbml0c3EAfgAMCaekOHQAAiMjc3EAfgAMV699AHQACGZpbmFsaXplc3EAfgAMrmGu+XQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAD2NoYXB0ZXIyLnNvcnRlZHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AY3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBLTAAJaW5oZXJpdGVkcQB+AEtMAAdwYXJlbnRzcQB+AEt4cQB+AGhzcQB+AGN1cQB+AEYAAAAAc3EAfgBjdXEAfgBGAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBMcQB+AFV1cQB+AFYAAAAAc3EAfgBYAHEAfgAhdXEAfgBbAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBnc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCFdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AcnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AXnQABVBsYWlucQB+ADFzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHlbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGdzcQB+AHh0AAVBcnJheXEAfgB+dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHh0AAZTdHJpbmdzcQB+AHxzcQB+AH91cQB+AIIAAAADc3EAfgCEdAAEamF2YXNxAH4AhHQABGxhbmdxAH4AiXNxAH4AY3VxAH4AnAAAAARzcQB+AHh0AANBcHBxAH4AfnNxAH4AeHQAC0RlbGF5ZWRJbml0cQB+AH5zcQB+AHh0AAZPYmplY3RxAH4AoHNxAH4AeHQAA0FueXEAfgB+dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAIY2hhcHRlcjJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVqOh2hLdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAYy9ob21lL3RvbWFzei9Qcm9nZnVuL3Byb2dmdW4vcHJvZ2Z1bi13b3Jrc3BhY2UxL3Byb2dmdW4tYm9vay9zcmMvY2hhcHRlcjIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFI+dmNtEq50gHZ1rRw6v9VfNC9V2
+external apis:
+0 items
+source infos:
+6 items
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/composition.scala -> 
+AAAAAAAAAAA=
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/curry.scala -> 
+AAAAAAAAAAA=
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci.scala -> 
+AAAAAAAAAAA=
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/fibonacci1.scala -> 
+AAAAAAAAAAA=
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/partial.scala -> 
+AAAAAAAAAAA=
+/home/tomasz/Progfun/progfun/progfun-workspace1/progfun-book/src/chapter2/sorted.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo6HaEt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYy9ob21lL3RvbWFzei9Qcm9nZnVuL3Byb2dmdW4vcHJvZ2Z1bi13b3Jrc3BhY2UxL3Byb2dmdW4tYm9vay9zcmMvY2hhcHRlcjIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
